@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\pd\bin\pd.exe" -font-size <30>
